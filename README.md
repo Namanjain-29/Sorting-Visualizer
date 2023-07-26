@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
 ![Project Image](https://github.com/Namanjain-29/Sorting-Visualizer/blob/main/image/gif.gif?raw=true)
-> [Live demo](https://shubh67678.github.io/sorting-visualizer/)
+> [Live demo](https://namanjain-29.github.io/Sorting-Visualizer/)
 
 ---
 
@@ -21,7 +21,7 @@ It compares the time taken by the different algorithm for sorting the array.
 
 - HTML 
 - CSS
-- Javascript (p5.js)
+- Javascript 
 
 ---
 
